@@ -1,874 +1,197 @@
-Mr. Speaker. Madam Vice President. Our First Lady and Second Gentleman.
+Welcome to EconTalk, Conversations for the Curious, part of the Library of Economics and Liberty. I'm your host, Russ Roberts of Shalem College in Jerusalem and Stanford University's Hoover Institution. Go to econtalk.org where you can subscribe, comment on this episode, and find links and other information related to today's conversation. You'll also find our archives with every episode we've done going back to 2006. Our email address is mail at econtalk.org. We'd love to hear from you. Today is June 20th, 2023, and my guest is author and economist Daron Acemoglu of MIT. This is Daron's sixth appearance on EconTalk, last here in September of 2019, talking about shared prosperity and good jobs.
 
-Members of Congress and the Cabinet. Leaders of our military.
+Our topic today is technology. We'll be referring to his new book with Simon Johnson, Power and Progress, Our Thousand Year Struggle with Technology and Prosperity, along with some other work that Daron has done on Twitter.
 
-Mr. Chief Justice, Associate Justices, and retired Justices of the Supreme Court.
+Daron, welcome back to EconTalk.
 
-And you, my fellow Americans.
+Thank you, Russ.
 
-I start tonight by congratulating the members of the 118th Congress and the new Speaker of the House, Kevin McCarthy.
+It's a true pleasure to be here with you. Now, unlike many economists, you and Simon Johnson have come out more worried about technology, I think, than in the usual mainstream. You are particularly concerned about living standards generally, wages, and you raise the question as to whether technology will necessarily improve living standards widely. Your book takes a long, broad look at very historical episodes, but make the case, why shouldn't I trust technology to lead to making people better off, which is a very, I mean, it's almost a religious view for me, from my training.
 
-Mr. Speaker, I look forward to working together.
+Thank you, Russ.
 
-I also want to congratulate the new leader of the House Democrats and the first Black House Minority Leader in history, Hakeem Jeffries.
+And you summarized it brilliantly, especially with the word necessarily. And that's really the main reason why we wrote the book. And Simon and I are convinced that as economists and as concerned public, policymakers, analysts, we have to hold two potentially conflicting views in our minds. One, that today we are extremely fortunate from a historical sweep because of the technological breakthroughs that started sometime around the middle of the 18th century. The application of knowledge, later scientific knowledge, to industrial processes that have brought us much better health, much greater comfort, much greater level of prosperity. So we are huge beneficiaries of technological progress. But at the same time, we also have to hold the conflicting thought with that, that technology can be used and has been used for bad. And there is nothing automatic about technological progress bringing widespread prosperity. And that automatic or necessarily, as you put it, is the key thing. Because in thinking that somehow technological progress is going to be such a powerful force for lifting all boats automatically, we abrogate our responsibility to shepherd it in the right direction and to make institutional adjustments so that society at large benefits. And the reason why we do all this historical work in the book is to argue that we have benefited from technology precisely when there are certain preconditions that have been satisfied. So my take is, I would argue, your position is half right, in my view, and I want to give you a chance to convince me that you're completely right. It's clear to me that our standard of living is wildly better than the standard of living of people 250, 200, 300 years ago, as you suggested. I think it's difficult to make the case that the enormously widespread availability of good living standards was shepherded in any way. So, you know, competition is a very powerful force. It's true that the innovator, the person who develops the technologies, it can sometimes capture a disproportionate or large share of it initially. But over time, competition from entrance lowers the price, creates access and raises living standards, also saves resources to allow new things to be created. Now, where I would agree with you is it certainly doesn't raise all boats at every point in time, right? Certainly technology that competes with people already doing something that is well paid and now is suddenly not going to be well paid, it's going to hurt those people in the short run and their short run, maybe half a lifetime, which would be is very painful. But I don't understand the shepherding argument. I don't see much in the history of of technology that suggests it's been shepherded much.
 
-Congratulations to the longest serving Senate Leader in history, Mitch McConnell.
+Change my mind.
 
-And congratulations to Chuck Schumer for another term as Senate Majority Leader, this time with an even bigger majority.
+Well, I don't know whether I can change your mind, but what I'm going to do is I'm going to first claim three critical ingredients for technology to have the type of effect that you explicated, and then I'll give you some historical examples. And, of course, feel free to interject. I don't want to go on for too long.
 
-And I want to give special recognition to someone who I think will be considered the greatest Speaker in the history of this country, Nancy Pelosi.
+But one is competition.
 
-The story of America is a story of progress and resilience. Of always moving forward. Of never giving up.
+Absolutely.
 
-A story that is unique among all nations.
+You're 100 percent right.
 
-We are the only country that has emerged from every crisis stronger than when we entered it.
+But I think you are not right in thinking that competition is automatic, either in our age or throughout history.
 
-That is what we are doing again.
+Second.
 
-Two years ago, our economy was reeling.
+Coercion in labor markets, so that's the tip of the iceberg in some sense. That means that when employers have too much power over their employees, there is no guarantee that an increase in marginal productivity of labor. OK, sorry, I'm using a jargon, but I think it's OK for an econ talk, an increase in the contribution of labor to productivity will translate into higher wages.
 
-As I stand here tonight, we have created a record 12 million new jobs, more jobs created in two years than any president has ever created in four years.
+And third, automation.
 
-Two years ago, COVID had shut down our businesses, closed our schools, and robbed us of so much.
+That by itself, automation may increase capital's productivity, may increase profits, but it may not increase the marginal productivity of labor and hence break one of the chains that goes from higher output, higher productivity to higher wages. And we see all three of them in history. So we spent quite a bit of time on medieval technologies to argue that the so-called dark ages weren't dark in terms of technology, but they were dark in terms of the conditions of the peasants. And part of the reason was this lack of competition and coercion. Both of the first two factors I've mentioned, windmills, for example, increased productivity more than tenfold in some tasks. But because they were monopolized by lords and abbots who actually forcefully did not even allow any competition and coerced people to use their mills, few, if any, of the benefits spread beyond that small, narrow elite. Let me give you another example of coercion. A transformative technology for the United States history is the cotton gin. It turned the United States from essentially a backwater for agricultural productivity, especially in industrially relevant agriculture, into the largest exporter of cotton. It revolutionized the South's economy.
 
-Today, COVID no longer controls our lives.
+But the workers, black enslaved people, actually fared much worse under the cotton gin because they were moved into much, much harsher plantations in the Deep South as cotton plantations spread. And then finally, automation. You know, when we see automation being the only or the main focus of technological changes, we see that many workers experience lower wages or lose their jobs. That's what happened in the first phase of the Industrial Revolution. When it went longer than half a lifetime, it may have gone on for about 90 years or so, you know, perhaps two lifetimes for people at the time, especially since life expectancy at birth declined to around 30 years as people moved into the cities. So all three of these are important. And when I meant shepherding, I meant ensuring competition, ensuring labor has voice and power, and also encouraging broader applications of technology than just automation. So let's concede, I think we agree on competition. Not surprising where we might struggle.
 
-And two years ago, our democracy faced its greatest threat since the Civil War.
+I'll give you a chance to talk about if you want, but I think the challenge is how do you bring about competition? One of the biggest challenges, of course, is that it's not so much that there is a competition, it's that there's barriers to competition. Some of those may be natural. Many of them are often government imposed. And we probably agree that we should probably get rid of those. The challenge, of course, is figuring out which ones those are, because in our current worlds, we'll get to later, technological, the biggest corporate power in the United States, the most successful companies, in theory, there are no barriers to entry, but they seem to have a pretty good deal for themselves. And we'll get to that when we talk about it on Chat GBT, I think. Let's move on to the other two, the labor, the issue of labor coercion and what was the third one again? Automation versus other things that increase marginal. OK, so on the on the case of labor, this is a growing concern, I think, among many economists that what is often called bargaining power is inadequate to have to allow workers to benefit from the pie getting larger, say.
 
-Today, though bruised, our democracy remains unbowed and unbroken.
+I don't understand that. And let me ask a more general question. You talked about the Industrial Revolution, obviously, there are many parts of the Industrial Revolution that were unpleasant, not much very similar to today's world in, say, China, where a lot of workers are, their activity is not well measured. They're in they're on the in rural areas. They're not part of the data. They come to the cities. City life is challenging. It's culturally challenging.
 
-As we gather here tonight, we are writing the next chapter in the great American story, a story of progress and resilience. When world leaders ask me to define America, I define our country in one word: Possibilities.
+They struggle.
 
-You know, we’re often told that Democrats and Republicans can’t work together.
+And many of them may be worse off in the short run. It may be a fairly long time.
 
-But over these past two years, we proved the cynics and the naysayers wrong.
+There's a big debate, and I just want to give some credence to both sides, and I think I know where you stand on it, but a huge debate in economic history as to how the Industrial Revolution treated workers. So the rough period we're talking about here is something like 1750 to 1880, particularly in England. And it's England that gets looked at because it's the beginning of it. It's where we have the most data. And I would argue that that time period is pretty imperfectly understood. There are very, very loud views on both sides of this issue. There are people who say for 90 years, 100 years, no progress. So you say in your book, no progress for the average worker.
 
-Yes, we disagreed plenty. And yes, there were times when Democrats had to go it alone.
+Other people disagree.
 
-But time and again, Democrats and Republicans came together.
+They say, actually, there was quite a bit of progress. Now, there may be pockets that weren't that didn't didn't gain. But how confident are you of your view of that? Because it's it's somewhat important to your argument.
 
-Came together to defend a stronger and safer Europe.
+It's absolutely, absolutely. Well, you actually, Russ, you've made two points. One is about coercion more generally. And I want to come back to that because I think it's very, very important. But if we can put a pin on that and let's not forget it, let me answer your question about the Industrial Revolution. No, I am certainly not confident about real wage data between 1750 and, say, around 1840.
 
-Came together to pass a once-in-a-generation infrastructure law, building bridges to connect our nation and people.
+And there are.
 
-Came together to pass one of the most significant laws ever, helping veterans exposed to toxic burn pits.
+Voices on both sides, you're absolutely right, but the general statement that the working people did not much benefit. From the industrial progress, I think I'm fairly confident because there you have to bring in what was happening to their living conditions, what were what was happening to their work autonomy, what was happening to their health, what was happening to their children. You know, I think when you look at the data there, to me, there is very little doubt.
 
-In fact, I signed over 300 bipartisan laws since becoming President. From reauthorizing the Violence Against Women Act, to the Electoral Count Reform Act, to the Respect for Marriage Act that protects the right to marry the person you love.
+In 1840.
 
-To my Republican friends, if we could work together in the last Congress, there is no reason we can’t work together in this new Congress.
+There was a parliamentary report about the condition of England that.
 
-The people sent us a clear message. Fighting for the sake of fighting, power for the sake of power, conflict for the sake of conflict, gets us nowhere.
+Reported.
 
-And that’s always been my vision for our country.
+Children as young as five or six working 18 hours in deep coal mines and pushing carts with their heads, 1840. 1840, this is 90 years after the 1750, which is the rough beginning date of the Industrial Revolution, 1720 is the beginning of first big textile mills. So maybe even one hundred and one hundred and twenty years after that. And the reason why we have these data is because the British had parliamentary commissions and there was. Starting, why so late, that's a question, was starting some concerns about the conditions of England because of petitions, because of people talking in newspapers. So, you know, this is the condition that we're looking at, 1850s still. The living conditions in British cities where more and more people were living were horrible. Life expectancy may have fallen below 30 years at birth. Infectious diseases were rampant. There was no sewage system. And even though we don't know about real wages, working hours expanded quite significantly under some excellent economic history works that really document this. So, yes, we can debate about real wages and it's a good debate. But the conditions that we're talking about were really very, very different from what started to transpiring from around the.
 
-To restore the soul of the nation.
+1860s, 1870s, and one important factor there. Is, you know, worker voice.
 
-To rebuild the backbone of America, the middle class.
+Trade union activity.
 
-To unite the country.
+Was very harshly suppressed.
 
-We’ve been sent here to finish the job.
+In Britain. And any kind of democratic movement.
 
-For decades, the middle class was hollowed out.
+Was super strongly discouraged, 1840s, when I was just mentioning a second ago, where I was also the beginning of the Chartist movement. Chartists collected three million signatures. I mean, I let that number sink three million signatures for asking for minimal. Changes in the political system so that people could vote and could participate in the political process.
 
-Too many good-paying manufacturing jobs moved overseas. Factories at home closed down.
+They were very keen. They were very careful not to make even demands about, you know, trade union organizations so that they could not be labeled socialists. And you know what the British. Upper middle classes or middle classes or whoever want to want to call the system, the people who were politically powerful. They completely ignored them through all of the Chartist leaders in jail. So that's what I mean, that there was nothing automatic about that process. And when trade unions start, you know, organizing after the Master and Servant Acts, which completely disempowered workers against their bosses and trade unions were legalized, that's when you see conditions in factories improve quite a bit. So let me ask a more general question that related to that, I think I certainly don't deny that life was very hard for many people in this time period. And I think the idea of using standard of living or real wages is an attempt to get some objective measure that is somewhat across a wide part of the population. Let's think about the United States and immigrants come to the United States in second half of the 19th century in very large numbers, and they come to very horrible conditions. They come to tenements in New York City, where, as you say, disease is rampant, there's huge overcrowding, there's many, many bad things in terms of quality of life, especially compared to where they they had come from. So you might have to ask yourself, why did they come? Were they misinformed about the life they were they were living? Similarly, people who flocked into London and Manchester and the cities that were industrializing in the last half of the whole 19th century in England, last half of the 18th century.
 
-Once-thriving cities and towns became shadows of what they used to be.
+Why would they come? Why didn't they just go when it was horrible and life was tough and pushing the working in the coal mill with your head at the age of six, your kids having a horrible day?
 
-And along the way, something else was lost.
+It is. It's horrifying.
 
-Pride. That sense of self-worth.
+Why didn't they go back somewhere else? Why didn't they go back to the countryside? Why did immigrants come to the United States? It was it was horrible on the surface. They might contention would be maybe it wasn't as bad as it looks to us today, but more importantly, maybe they thought there was a future for their children or grandchildren turned out to be correct in the case of the United States. Maybe not for England, for maybe it took their great grandchildren or great, great grandchildren. And it could have come sooner with the right regulation. So I think that's the crucial question. But first, just react to that.
 
-I ran for President to fundamentally change things, to make sure the economy works for everyone so we can all feel pride in what we do.
+You nailed it. You nailed it. I think exactly it could have come sooner and it did come. But again, it's not the automatic process. And I'll come back to the United States because I want to come back to the United States in the context of automation issue, because I think it's a great example. But just as a preliminary answer, yes, they migrated to the United States because living conditions were better in the United States. Wages were higher in the United States. Wages are key. And why wages were higher?
 
-To build an economy from the bottom up and the middle out, not from the top down. Because when the middle class does well, the poor have a ladder up and the wealthy still do very well. We all do well.
+Well, that's about labor shortages and technology, both of them. And we'll come back to that.
 
-As my Dad used to say, a job is about a lot more than a paycheck. It’s about your dignity. It’s about respect. It’s about being able to look your kid in the eye and say, “Honey –it’s going to be OK,” and mean it.
+But the reason why they went to London is mostly push factors. So labor was pushed out of the countryside in the United Kingdom for two reasons. One of them is semi-good.
 
-So, let’s look at the results. Unemployment rate at 3.4%, a 50-year low. Near record low unemployment for Black and Hispanic workers.
+Agricultural productivity was increasing in a way that reduced labor requirements. So people did not have as much work. But second, there was also this whole enclosure movement, which rationalized parts of agriculture, but in a very harsh way, cutting out many of the means that people had for surviving. Because in the open fields, they could collect wood, they could hunt, they could do other things in order to support their existence there. And again, that sort of illustrates some of the tensions that we're talking about. One of the sort of most eloquent observers of the enclosure movement was Arthur Young, who started as almost like a Malthusian before Malthus in terms of his views and was very, very much an economist by instinct, thinking about economic efficiency and how important it was to introduce rational property rights, etc. But after a while, he changed his mind and he said, look, through this enclosure movement, we're really treating these people so badly and we don't need to do it in this harsh way, in this rapid way that throws them out. And we could, at the same time, allow them some means of existence. You know, again, this is sort of the tension. We are all recognizing that the economy had to be transformed. And technology was providing the means. But how are we going to use these means and through what institutional means? And that's exactly why you nailed it with the right kind of regulation. It didn't need to be three generations. It could have been perhaps one generation in the United Kingdom. But what's the evidence that the quicker pace in the United States was due to regulation as opposed to just other factors? I mean, there's nothing, it's not, I don't think there's any evidence of that. No, I'm not claiming that in the United States, it was regulation. I think the evidence for quote, unquote, regulation, regulation is not even the right word. I just picked up on it because you used it. The institutional framework is the trade unions. Once trade unions were in the mix, then you see conditions in factories improve and, you know, worker voice, more investment in education, more investment in public services. So that's the sort of the institutional balance and more generally democracy. You know, the United Kingdom at one level, and this is what, for example, in my work with Jim Robinson, we've celebrated, this is a huge success of democracy, peaceful process of democratization. But on the other hand, it was a slow one. It took, you know, again, 1860s, 1870s until really, truly, there was some sort of democracy which provided voice to the working people. I think that's a bit of an illusion. But I don't know if we want to spend a lot of time on that in the sense that I'm not sure that the political power of those groups made a large difference in say, gender living and social services and other things. They were very low levels during that period. But I want to make your point a little more stronger because I think you correct me wisely. You know, I said, why did they come to the United States? Or why did they go to the, from foreign countries? Why did they go to the industrial centers of manufacturing centers of England if it wasn't a better life? And the answer is, well, it could have been. That's one of the reasons. But the other reason is it could have been so bad where they were. And your point about immigration is certainly true. Jews fleeing Tsarist Russia, pogroms, anti-Semitism, Irish fleeing potato famine. Many, many immigrants to the United States came because, not because it was glorious and the streets were, in fact, paved with gold, but because it was.
 
-We’ve already created 800,000 good-paying manufacturing jobs, the fastest growth in 40 years.
+But they even came from England. That's exactly your point. They came from England.
 
-Where is it written that America can’t lead the world in manufacturing again?
+But let's talk about the trade unions because, you know, I was. I was in my day as an economist, when I was a real economist in grad school, in the the 70s, late 70s. The consensus was the trade unions had no impact on wages. They were ineffective. They verified. It's not verified. I forget the word I want. They confirmed changes in wages that otherwise would have happened. The only way they can actually affect wages is by contracting employment. So while they can raise wages in certain particular industries, they do that by reducing employment in those industries. And so the net effect on workers is zero at best. So and then I look at, you know, the last half of the 20th century, industrial standard of living is rising steadily in the United States as unionization is steadily falling. So it seems like a lot of evidence from my very biased perspective that unions are not important for sharing the pie. They rearrange it a little bit, but otherwise not really what makes the difference. It's actually just the steady growth in technology, application of capital and the things that you're suggesting need to be stewarded. So let me say a couple of things, Russ. And again, I still want to come to technology in the U.S. because that's the critical part for the U.S. And it's also a critical part of our argument. But first of all, long run effects of trade unions are very difficult to know. So if you have a very strong opinion about long run effects, like in 30 years time, how will they change wages, et cetera, that's very difficult to sort of nail. But short to medium run, I think there are both good theoretical reasons and empirical evidence that when they are effective, and that effectiveness requires both trade unions to behave the right way and the employers to react to them the right way, they can have quite significant effects. In terms of the theory, just very quickly, the question is whether you start from a labor market where everything is fully competitive except the trade unions, or whether you start with a frictional labor market. For example, if you have a frictional labor market where there are, for instance, search frictions, which mean that every employment relation has a quasi-rent in it, meaning that I would love to be here and you want me to be here, Russ. And it's not like I have an outside option that will make me exactly indifferent. And you have an outside option at this point that will make you exactly indifferent. I think in the medium run, that's right. And if you planned for next week, you could find as good a guest as me. But right now, we are locked into this relationship. That means that in our relationship, there's a quasi-rent and we have to distribute it. How are we going to distribute it? That's the bargaining problem.
 
-For too many decades, we imported products and exported jobs.
+And if that bargaining, for whatever reason, for instance, if I'm an enslaved worker or the rest of the economy is treating me really badly, you have all the bargaining power in there, that's actually not going to lead to a fair division. It's going to lead to inequality. Actually, it won't necessarily lead to much efficiency either. So that's the question, which is, how are these... employment-generated quasi-rents distributed? And that becomes a particularly big problem when firms get bigger, like the modern factories, because they have a lot of power over their workers. And the way to think about why trade unions did have a meaningful effect and without creating huge inefficiencies, again, that may be very different than from the police unions and the teacher unions, but in the modern factory system, it's because they leveled the playing field to some degree. And where do you see the evidence for that? In the U.S., it's more complicated.
 
-Now, thanks to all we’ve done, we’re exporting American products and creating American jobs.
+But if you look at Scandinavian countries, there you are actually seeing how unions, when they are acting in a way that's in concord with employers, but actually asking for better working conditions or better wages, also compressing the wage structure, they're having massive effects that you can see in the data.
 
-Inflation has been a global problem because of the pandemic that disrupted supply chains and Putin’s war that disrupted energy and food supplies.
+Well, I don't know those data. That's interesting. And we'll link to anything you share to let people explore it. I don't understand the argument that a large firm, say, has more power over me. You and I have spent our lives in the educational system. They are non-profits, our employers typically. And I always like to make the argument, that doesn't mean they're nice. We don't make the wages we make because our employers are nice, because they're non-profit. We could probably, at least I know you could, maybe I could, we could make more money elsewhere in profit-oriented places, perhaps Wall Street or elsewhere. So we have plenty of market power, you and I.
 
-But we’re better positioned than any country on Earth.
+Just one person.
 
-We have more to do, but here at home, inflation is coming down.
+And why?
 
-Here at home, gas prices are down $1.50 a gallon since their peak.
+It's simple.
 
-Food inflation is coming down.
+We have alternatives. And those alternatives, there's no bargaining. The bargaining, the wage that economists make is, I'm not going to try to justify it as some perfect competition system, but it is determined by how much opportunity we have. Elsewhere, it certainly has, my willingness to complain has something to do with a little bit of bargaining. But in general, the wages are set, they're posted, they're not bargained for. They're the result of a quasi-market process. And the large employer, forget our own employers, large employers in the United States, let's take Walmart, which is a perfect example. I think largest private sector employer in the United States. They have to set wages to attract people away from other retailers and other places that use relatively low-skilled labor. And at Walmart, the skills are showing up on time and they're things that you can acquire or have access to. And I don't think they – do you believe that they are able to exploit workers or charge less because they're bigger than they were when they first started? I think there are two issues and they're both very important. And again, some of these are not as central for our arguments, but I think it's useful to talk through them.
 
-Inflation has fallen every month for the last six months while take home pay has gone up.
+One is monopsony power. And I am not one of the sort of the new converts to monopsony power, meaning that I think there are instances of monopsony power.
 
-Additionally, over the last two years, a record 10 million Americans applied to start a new small business.
+Explain what monopsony is. So here is the example of monopsony that I'll give you, which I think is an answer to one of your questions. And then I'll give you the caveats about it. If you have a company town, that is a monopsony. There is one employer who organizes the town and controls not just, say, industrial production there, but also the service jobs. If you disagree with that employer and he says, I'm going to fire you, there's no other job for you. The only thing you can do is you have to move out of that city and moving is very costly. So that is monopsony power, meaning that he is the single employer and he can, under some conditions, exploit that by pushing down wages and moving down your labor supply curve. And that's the classic monopsony model that John Robinson and others have worked out. There's no doubt in my mind that is relevant for certain historical episodes. The question is, A, whether that is relevant for the US labor markets today, and B, whether that is the most important labor market imperfection in the United States. On B, I'm convinced the answer is no, meaning that – and that's why I started from a different model of how the labor market works, and that's what I meant by the new converse to monopsony. A lot of people have now turned to thinking of monopsony as the organizing framework for labor market imperfections, and I'll come back to why. For my thinking, more generally, a little bit for the book with Simon, that's not the right sort of thing. I think that's important for me to explicate that. I don't think I have explained that anywhere else. On A, I think it's an empirical question. So you, again, sort of nailed it with your Walmart question, which is, does Walmart have monopsony power? The answer is, it depends. If Walmart is the only employer for low-skill workers, yes, it would have monopsony power. But if there are other jobs that are not as bad and a variety of low-skill workers could perform – cleaning, security work, customer-facing industries in the kitchen of McDonald's, et cetera – it's going to depend. So it's going to depend on the elasticities with which they could switch comparative advantage in one task versus another, so it's going to be an empirical question. So my reading of the evidence is that in the labor market today, there is some – in the United States, there is some amount of monopsony power. But I still come back to the B, which is, I don't think that's the main reason why labor markets are imperfect. And in fact, that's why I sometimes think we shouldn't overdo monopsony power. Why do I think?
 
-Every time somebody starts a small business, it’s an act of hope.
+Because I think the relevant labor market imperfection – I think it's very, very important in my thinking – is the other one that I started with. There's a quasi-rent between you and me, meaning that it's going to be very costly for you to fire me and find another guest, and it's going to be costly for me to say, I'm going to cut this interview in half, I'm not continuing. So then the question is, how do we, in general, split those gates? And whether that's a cooperative process or versus a non-cooperative process. And the type of worker voice to me that's most conducive is the one that makes sure that I can protect my interests, but this relationship doesn't become very conflictual. And when that happens, and when employers also have the right attitude, then you have things like gift exchange, meaning employers do favors to their employees, they have a view of employees as part of the stakeholders, part of the family, and employees then make adjustments so that they can be more secure. They make the training investments and other investments, but it is all in this context of splitting these quasi-rents. And I think that's a very different view than the monopsony model. It has some implications that are similar. It has some very different implications. For example, ensuring cooperation between employer and employee is much more conducive in the context of splitting the quasi-rents and having the right sort of balance is important. So why do I think large companies are a problem? Because if you have large companies that are very well organized and completely disorganized workers, it's going to be in the splitting of this quasi-rent that there's going to be an imbalance. When you are against the bureaucratic organization as an individual, you may become powerless. So that's why, and this is sort of I think what Galbraith was after in his countervailing powers, large corporations, you need some sort of coordination among the workers as well.
 
-And the Vice President will continue her work to ensure more small businesses can access capital and the historic laws we enacted.
+Otherwise, divide and rule. You're just one individual. You have to follow the harsh conditions that I'm setting. I think that could be one path that's dangerous. So I don't agree with that other than in the company town example. And even that, I think people leave town. In a modern industrial economy, I don't care how big the company is, do you think the largest employers of engineers in America, the tech sector, as it's gotten larger, is somehow more able to – they're desperate for workers. They give them all kinds of amenities. And there's none of this quasi-rent negotiation. Again, it's just a posted price.
 
-Standing here last year, I shared with you a story of American genius and possibility.
+Oh, come on.
 
-Semiconductors, the small computer chips the size of your fingertip that power everything from cellphones to automobiles, and so much more. These chips were invented right here in America.
+No, no, no, no, no, Russ.
 
-America used to make nearly 40% of the world’s chips.
+There, there.
 
-But in the last few decades, we lost our edge and we’re down to producing only 10%. We all saw what happened during the pandemic when chip factories overseas shut down.
+I'm going to disagree with you this time.
 
-Today’s automobiles need up to 3,000 chips each, but American automakers couldn’t make enough cars because there weren’t enough chips.
+Please.
 
-Car prices went up. So did everything from refrigerators to cellphones.
+The largest corporations, it's all quasi-rent negotiations. Why is it that in the heyday of the tech sector, companies like Google, Facebook, were doing all of these amazing things to make employees happy, to give them free snacks, coffees, come here and we'll entertain you. That was all part of splitting the quasi-rents in a way that made the employees happy so that they could build this cooperative sort of feeling. Now, in terms of the low-skilled labor markets, the – Wait a minute. But wait a minute. Wait a minute.
 
-We can never let that happen again.
+So those large firms, they're still doing it, even though they're much larger. You don't – are you going to argue that the wage – No, no, because – but they're, you know, they're dealing with workers that have very specific expertise. They're very useful workers that they didn't want to lose. But the reason why they didn't want to lose them, they were – so it's because they're making quasi-rents. You can't think of that as a competitive labor market. In a competitive labor market, I would never throw money at you like that, because I'm just paying for your marginal product anyway. So the fact that I'm like throwing money left, right, and center is already sort of a sign that there are some quasi-rents being split there. Now, when it comes to the low-skilled labor markets, just one – let me just – Go ahead. Then it's – you're absolutely right. It's an empirical question.
 
-That’s why we came together to pass the bipartisan CHIPS and Science Act.
+Really, these low-skilled workers, were they so beholden to McDonald's and Walmart, or did they have other options? And my view is somewhere between you and the new monopsony converts. In some cases, yes. In some cases, no, but it's an empirical question. There are some very good empirical papers there that do estimate monopsony power, but the monopsony power is not like crazy, like 10 percent wage markdowns or so on. So we'll agree to disagree on this to some extent. I think the – where I think we'd agree is that all of these transactions between employers and employees are embedded in a larger labor market. And I'm just pushing the argument that I think that larger labor market is much more protecting of workers than your view, and that's – we could disagree on that empirically. We may be disagreeing on it theoretically. But I think of, say, people who are house cleaners who make two to three times the minimum wage. They're vulnerable because of immigration status often, and yet they're treated quite well financially. I'm not saying it's a pleasant job, but they make much more than the law requires. And it's clear to me why, because if you don't pay them that market wage, which is the going wage in the area where you live, they don't show up because of any alternatives, even though those alternatives are just the same in other people's houses. There are many, many employers. That's consistent with both of our views of competition. But the fact that I have, in theory, a huge edge over them because their English is mediocre, there are plenty of jobs they can't get, maybe because of their legal status, and I'm still paying them many, many times the minimum wage, not because I'm a nice person, because the market requires it.
 
-We’re making sure the supply chain for America begins in America.
+Yes. The U.S.
 
-We’ve already created 800,000 manufacturing jobs even without this law.
+has had some labor shortages. When labor shortages are acute, that's exactly what happens in the house cleaning sector. I think it seems like when labor shortages aren't that acute, then things don't work out so well. And the labor shortages are actually relevant for the U.S.
 
-With this new law, we will create hundreds of thousands of new jobs across the country.
+case. So you had asked earlier on, so why were people coming to the United States?
 
-That’s going to come from companies that have announced more than $300 billion in investments in American manufacturing in the last two years.
+Yeah.
 
-Outside of Columbus, Ohio, Intel is building semiconductor factories on a thousand acres – a literal field of dreams.
+But if I could, if I may, I want to sort of talk about the third element of that thing. When is it that technological change will lead to prosperity? Because it's a central part of my work and central part of the thesis of the book, and I think it sort of puts the labor shortage into a much greater perspective. So, again, if I'm going to introduce a little bit of jargon, and this part for those who don't want the jargon to cover your ears, but the economist's view of technology is partially colored by the most convenient models we use, such as, for example, Cobb-Douglas production function. And the Cobb-Douglas production function is special, and you don't need to know what it is. But what it implies is that marginal product and average product are proportional, which means that whenever something increases the average productivity of a firm or an industry, meaning that how much output is produced per worker, that also means that exactly the contribution of the worker, his marginal productivity, increases by the same amount. So in that world, technology is going to be wonderful for workers. Technology improves the average productivity, which means how much output I produce as a firm with the same number of employees by twofold. The equilibrium is going to lead to twofold increase in wages. The world is not like that, especially when there are a lot of automation technologies. And if you want to think about it that way, we discuss this as an illustration in the book as well, sort of this claim about the factory of the future, which is ascribed to many people. So let me not give it to any one person. The factory of the future will have two employees, a man and a dog. The dog is there to make sure that the man doesn't touch the equipment, and the man is there to feed the dog. So, obviously, it's an exaggeration, but if that's the fact...
 
-That’ll create 10,000 jobs. 7,000 construction jobs. 3,000 jobs once the factories are finished.
+It's close.
 
-Jobs paying $130,000 a year, and many don’t require a college degree.
+There are many, many productive processes in the United States where it's such a trivial number of workers relative to output. The reason why this is such a good example is that it clearly highlights why that man, or many people who may be working in these companies, don't really contribute to average productivity in that huge way. You can eliminate this person and the dog, and the factory would still work fine. When that's the case, the labor market, the competitive process, shouldn't pay this person a high wage. That's automation. And the key that my work has done in pushing is two ideas, and the book with Simon develops these further and provides a lot of historical background. One is that there shouldn't be any presumption that just automation is necessarily going to lead to much higher wages. But second, that we don't need to do just automation. So, this is where the shepherding is important. Technology, human knowledge, scientific knowledge, is a very broad platform. We can use them in many different ways. We can create different future factories where humans have much greater contributions in terms of design, maintenance, flexibility, social skills, creativity. And if we do that, then we're going to increase wages. And now, if you come back to the United States, why was the U.S. so attractive to low-skilled workers? This is actually something that the economic historian H.J. Habakkuk first hypothesized and provided some qualitative evidence for. Because skilled labor was in very short supply in the United States, the whole creative energy of American innovators and entrepreneurs was devoted to increase the productivity of unskilled labor. So, unskilled labor was centrally integrated into the production process. So, in the United Kingdom and the U.S., the U.K. again sent a lot of parliamentary commissions, and they said exactly the same thing. So, we have a great, qualitative, detailed description of this. So, in the U.K., you had these artisans who were trying to work with a chisel, with very good hand-eye coordination, in order to make manufacturing processes work. Whereas the Americans said, we're not going to find these skilled artisans, and even if we do, they're going to be very expensive. So, let's introduce machinery in a way that can be used with unskilled labor. That was the beginning of the interchangeable parts system, the American system of manufacturing. And once that got off the ground, unskilled labor was very central to manufacturing, and its productivity was very high, and its wages were very high. The part that's been significant for me is that, let's take the man and the dog, and I've written about this a little bit, the many, many processes in America, in modern industrial, it's not just in America, modern industrial societies, they've stripped away immense amounts of labor through the substitution of machines. And you're right, it doesn't make the workers who are left productive, because they have very little, the process is productive, the total output divided by the number of workers is very high, but because the skills of the workers are relatively low, which is the whole idea of the process, they don't make a high wage, they don't capture any of the productivity gains that the machinery brings. So, I've written about this in pencil manufacturing, egg farming, the modern egg farm is an enormous number of chickens and a handful of people, a couple, and their main job is to take dead chickens out, and like you say, to make sure the whole thing is varied, to make sure that the machines don't break, but as long as they're working fine, they have very little role, and I'm pretty confident they don't make a lot of money. The money mainly goes to the people who bought the machines, installed them, the people who made the machines and created them. However, the net result is an enormous drop in the price of eggs, and that means that the workers who work elsewhere have a much higher standard of living, including the ones who work in the plant, and that's happening all over the economy. And so, what's happening is, here's the irony, as the innovation is stripping out labor from many different manufacturing processes, that's creating opportunities for new employers to find things that those low-skill workers could do, and they have. Historically, there isn't mass unemployment in the face of innovation, and the whole 20th century in the United States is that story to me. Maybe I'm missing something, it's the application of technology and automation to things that used to be done mainly by hand, so that the hands aren't necessary, and those hands go elsewhere, and they work in other parts of the economy, and they're able to enjoy a decent or even much higher standard of living, because many things they buy are now less expensive because of that technology, and they don't want to share those gains, the owners of the egg farming factory, but they're forced to, because there's too many people making eggs. Russ, you gave an excellent account of 50% of the story, but you've left out 50%, that's what I would argue. And this is, you know, a central part of my theoretical work, and I have, with Pascual Restrepo, and also with Pascual, we have also provided quite a lot of empirical evidence to bolster this empirical case, and other people have done as well. So you are absolutely right, if you introduce automation technologies, you reduce costs, prices will decline, and that may, under some conditions, if it's sufficiently productive, also increase real wages, and it works exactly like you described, which is that, you know, eggs become cheaper, cars become cheaper, coats become cheaper, you know, new widgets are introduced, and so on. But if that's all that's going on, automation and all that's going on, labor share would decline steadily, both at the industry level and at the economy level. But that's not what we see in the data for much of the 20th century. And the reason why labor share declines is exactly what you nailed, which is, you know, the employers, the machines are the ones that are doing the egg production, and the car production, and the cloth production. So this is what Keynes also didn't get, that's why he was worried about technological unemployment. And what your story and Keynes' story miss is that at the same time, again, because we can apply scientific knowledge very broadly to very different things, we also create a lot of new tasks. Some of these new tasks are for capital, some of them are for skilled labor, some of them are centrally for unskilled labor. And what we document, and wonderful work by David Autor, Caroline Chin, Anna Salmans, and Brian Stigmuller documents even much better with much better data in a recent paper, is that throughout the post-war period, and in fact, actually, in the pre-war period as well, World War II, concurrently with the mechanization of agriculture, there were a lot of new tasks for labor, especially unskilled labor introduced in manufacturing and in other sectors of the economy. And it is these new tasks that are so important that wages increase, and employment is reinstated, and the labor share remains constant. And that's actually also very important. Where do those new tasks come from? They're not springing up from, they're not in the rain, they're not exogenous, they're endogenous.
 
-Jobs where people don’t have to leave home in search of opportunity.
+Of course.
 
-And it’s just getting started.
+They're part of the system. They are 100% part of the system.
 
-Think about the new homes, new small businesses, and so much more that will come to life.
+And again, some of the theoretical work that Pascual and I do was within this family of direct technological change models, where it is the entrepreneurs and the innovators motivated by profit that lead to these new tasks. But there is no necessity that the efficient balance of new tasks and automation will be created, nor is that always going to be taking place at the same rate, irrespective of the market structure. So perhaps when the tech sector, and now we can transition to AI if you want, if the tech sector is monopolized by a few companies, that may actually also affect the balance between new tasks and automation. But once we recognize that this balance between new tasks and automation is key, and that's been the main thrust of my work with Pascual, that really puts a very different spotlight on how we should think about technological change. And we cannot just say, oh, technological change is ongoing. Everything's going to be fine. Yes, technological change is ongoing.
 
-Talk to mayors and Governors, Democrats and Republicans, and they’ll tell you what this means to their communities.
+That's good.
 
-We’re seeing these fields of dreams transform the heartland.
+But do we get the right balance between automation and new tasks? What are the market processes that are not working for that new balance to emerge? So those become important questions to ask. So how would you possibly… Let's say you're right. I don't think it's a balance, actually. I don't think it's like there's a certain number of new tasks that pop up and a certain amount of unemployment or disemployment that occurs from ongoing innovation. It's a big complicated soup, and they're all tied to each other, and they're all based on human creativity. But let's say you're worried about it, as you are. How would you possibly think about how to get that balance right? And would you stop certain automations from being… Would you not allow… I mean, one extreme, driverless cars, if they ever came along, would be a really interesting example of this, right, would throw millions of people out of work. And I think that transition would be very painful, by the way. So I think that's an interesting, tough policy question. But there's no dial for balance between new jobs. So what, in practice, would you suggest we could do to help people who are harmed by what I would call creative destruction?
 
-But to maintain the strongest economy in the world, we also need the best infrastructure in the world.
+Great question, Russ.
 
-We used to be #1 in the world in infrastructure, then we fell to #13th.
+And let me first preface by saying that in this, I am probably more aligned with you. So the Hayek perspective was already apparent in your question. It's a decentralized system.
 
-Now we’re coming back because we came together to pass the Bipartisan Infrastructure Law, the largest investment in infrastructure since President Eisenhower’s Interstate Highway System.
+Things are going to pop up because of their own decentralized dynamics. I completely agree with that. And I think it's a fool's errand for a bureaucrat or for the government to come and try to say, you should innovate here, and you should innovate there. I certainly do not advocate that. I don't think it would work.
 
-Already, we’ve funded over 20,000 projects, including at major airports from Boston to Atlanta to Portland.
+That being said, there are macroeconomic forces that could create bias. And let me argue three of them are important, and I'm sure you're going to disagree with at least some of them, but perhaps with all three of them. One is what the tax policy of the government does. So if we make labor much more expensive and capital much cheaper for companies, then companies, being profit-maximizing entities, are going to be encouraged to use more capital, innovate more on capital, and not so much on labor. And what I do, for example, in a paper with Andrea Manera and Pascual Restrepo, is compute what the tax rate on different types of capital and labor is, marginal tax rate in the United States. And the marginal tax rate on labor is about 25 percent, on capital is about 5 percent, equipment capital. So we're creating a tax system, we have created a tax system that subsidizes people to do more automation and less of hiring workers. So one thing to do is to make sure that we get rid of these distortions. Second, I'm going from less controversial to more controversial. So if you agree… I'm not so sure, but go ahead.
 
-These projects will put hundreds of thousands of people to work rebuilding our highways, bridges, railroads, tunnels, ports and airports, clean water, and high-speed internet across America.
+Okay.
 
-Urban. Suburban. Rural. Tribal.
+If you agree that, and you haven't, but some of your listeners may, that these quasi-rents are relevant, then automation also has a rent-shifting role. So imagine that I was sharing some of my rents with my employees, and I was sort of happy because that was the equilibrium. But I also recognize that I'm creating a lot of welfare for them. The social planner likes that because I'm giving them a high wage.
 
-And we’re just getting started. I sincerely thank my Republican friends who voted for the law.
+But to me, that's a cost. And now you give me an automation technology that's so-so, that's what Pasquale and I mean. It's sort of not that amazing, but it strips those rents away. I might be tempted to use it, and the social planner doesn't want me to. So that's the second macroeconomic force. And the third one is what we call vision, and that's why vision plays such an important role in my book with Simon. The whole industry, the whole society may get obsessed with a vision, temporarily perhaps, that says, oh yes, we have to implement machine intelligence, artificial intelligence, let's get rid of humans. And that can carry the economy for quite a while down an excessive automation path. So I just want to alert listeners, this conversation could go on for another hour, but because both Arun and I both face external constraints in the quasi-rents we'd like to enjoy, we're going to have to cut it short in a little bit, which means we're not going to get to chat GPT and AI the way we might have. And we'll have to save that for another conversation if you're willing to come back to Arun.
 
-And to my Republican friends who voted against it but still ask to fund projects in their districts, don’t worry.
+I would love to.
 
-I promised to be the president for all Americans.
+Which is fantastic because I've only done about 70 episodes in the last six weeks on AI. So it's okay to have one that looks at these deeper philosophical issues. So I'm okay with that. I hope we can come back to it though. You have a lot of interesting things to say, but I want to talk about these three and we'll close with that. So on the taxation one, I would just observe that throughout, I would say, most of the 20th century and a good chunk of the 21st, economists saw taxation of capital as bad for workers because they believed, you don't, but they believe that workers in general, capital made workers more productive and raised their wages. So it was a good thing that there was that distortion. So it's interesting that because of your view of the impact of technology on productivity, you're taking a very different position. I just want to point that out. But the second thing that's interesting is that, you know, I've often, I think on this program even, argued that the minimum wage is an example that distorts the choices facing employers and pushes them toward replacing workers with capital. And I'm certainly against that. And I think that's a bad thing. We might debate over what level of minimum wage does that or how high it would have to be. But in my view, especially for low-skilled labor that struggles to find opportunities, I think minimum wage is a very mixed blessing. There's, of course, a large empirical debate about that. That's, I would say, not completely resolved. What was the second factor? The second is that, you know, if you're in a imperfect labor market with quasi-rents, then the social and the privately optimal amount of automation is different. Yeah, and I, you know, there's no doubt that, I totally agree with you, that's less controversial for me. The threat of technology, I would just add a couple things. One, as an employer, I'm not an employer, but as an employer who shares those gains with workers, some of them might enjoy that. They might get pleasure from the fact that they provide employment at a nice wage and benefits for their employees and might find technology tempting. But some would say, you know, I just don't want to put my workers out of work. Others more, say, profit-oriented, money-oriented might be tempted. And I certainly think that does affect the wages they offer. And I'd actually, I don't disagree with that. So I'm happy to say we're on the same page, sir. Well, you know, there, I think, there also have been other vision changes. You know, the vision issue is not just confined to the tech industries. You know, and I'm happy to talk about this in a different episode as well, the Friedman Doctrine, that the social responsibility of business is profits. You know, in the abstract may appeal to economists, but I think it was part of a movement and it was actually a motivator of a movement for many managers to say, actually, you know, let me think about this. Perhaps I shouldn't really be so generous with my employees because that's eating from the shareholders. And I have some work, for example, with Alex He and Daniel Lemaire showing how CEOs with MBAs, where, you know, ideas that shareholder value is key is quite emphasized, are very keen on not giving raises to their workers, whereas comparable companies do so. So they have a negative effect on wage growth and labor share. So there are these other issues that intersect with exactly what you said, which is, you know, what are the priorities of the CEOs?
 
-We’ll fund your projects. And I’ll see you at the ground-breaking.
+How short-term is versus long-term? How much do they want to share the gains? You know, hoping that might work out at one point or that makes them feel better versus, no, no, I have to go after my shareholders' interest first and foremost.
 
-This law will help further unite all of America.
+That's very interesting.
 
-Major projects like the Brent Spence bridge between Kentucky and Ohio over the Ohio River. Built 60 years ago. Badly in need of repairs.
+I would argue it may even be parallel. I'm very sympathetic to Friedman's claim, but I take your point. And I think somewhat parallel to the economist's relentless application of so-called rationality without thinking about a richer definition, that somehow selfishness is always good because Adam Smith said so, which he didn't for starters. And certainly there are many, many other things in our calculus besides money in terms of what we care about. But let's close with some of the policy positions that you would think are important. You know, I gave a little bit of a hard time about there's no lever or dial to dial back certain things, but presumably there are some general rules you might think about or have thought about for the concerns that you have. So would you, so the taxation would be one example, you'd want to make that different of labor versus capital.
 
-One of the nation’s most congested freight routes carrying $2 billion worth of freight every day. Folks have been talking about fixing it for decades, but we’re finally going to get it done.
+What else would you...
 
-I went there last month with Democrats and Republicans from both states to deliver $1.6 billion for this project.
+Let me talk about two, three others very briefly.
 
-While I was there, I met an ironworker named Sara, who is here tonight.
+Okay.
 
-For 30 years, she’s been a proud member of Ironworkers Local 44, known as the “cowboys of the sky” who built the Cincinnati skyline.
+And in the book, we try to clarify this, so let me just make it even cleverer. I don't have the policy answers. What I hope the book achieves is that it fixes our aspirations on making technology more complementary to humans. And that's, I think, is particularly important in the age of AI. And if that happens, and people come up with other ideas for doing that, policy or otherwise, we are completely open to it. But let me give you, in that spirit, the other three policy applications. The second is that we should have more sort of government competitions and programs to encourage human complementary uses of AI and digital technologies. The government, as I said, should not be at the driving seat, but the U.S. government through the Department of Defense, NIH, NSF in the past has had a very positive role in encouraging exploration of new areas, and I think this is something that we should consider. Definitely not automation taxes, definitely not slowdown automation. We do not want to slow down automation. We want automation to be rapid, but at the same time, find other things that we can do for workers so that worker productivity is also central.
 
-Sara said she can’t wait to be ten stories above the Ohio River building that new bridge. That’s pride.
+Third, digital ad taxes.
 
-That’s what we’re also building – Pride.
+One area in which we think digital technologies, online interactions, and AI are being misused is through digital ads, which then creates this whole ecosystem of outrage, emotional engagement, extreme sort of reactions online. And we think, and there is a lot of psychological evidence, there is some political science evidence about how it changes this communication pattern, this is not a good use of how we use technologies through negative externalities, through emotional negative effects, especially on teenagers. And that business model chokes other business models. Wikipedia doesn't have misinformation, Netflix doesn't have misinformation, but Facebook, Twitter, Reddit do. Why is that?
 
-We’re also replacing poisonous lead pipes that go into 10 million homes and 400,000 schools and childcare centers, so every child in America can drink clean water.
+It's because of their business model. So we view digital ad taxes as a way of opening up new business models so that they can survive against free, we give you everything for free, but you're our data model. And then the final one, most controversially, I think we should really go back to antitrust and rethink antitrust. We have never seen as large organizations in the world as private organizations as Google, Microsoft, Facebook, Amazon. That means they have enormous amount of social, political, as well as economic power. Could that be justified because of the economies of scale and the competitive landscape? Or should this be more of an antitrust in the same way that Standard Oil was targeted for antitrust? I don't have the answer, but it's really important that we have this conversation with it. I would just encourage listeners, and you can close with a reaction to this, Daron. I just want to say for the record that in the other past episodes, I've mispronounced Daron's first name. So those of you who hear those and are wondering which one's right, it's Daron. I would think about Schumpeter, and I think about capitalism, socialism, and democracy. I'm worried about some of the things you're worried about with the current digital landscape. There's many other things that worry both of us, I'm sure, we just start scratching the surface. But I think it's interesting to think about the fact that these large companies, you didn't mention Apple, that would be another one. Although they are large, and although they have a lot of power within their fiefdoms, which would be, say, search right now in the case of, say, Google, all of a sudden, chat GPT is making them a little uneasy. It's going to be an interesting situation. So I would just say I agree that antitrust is woefully unprepared for this. It's out of the picture, and maybe it shouldn't be. I'm not a big fan of antitrust. But right now, whether you like it or not, it's not doing it. Whatever you think it should be, it's not doing it. But it's interesting to me that even in a time when it looks like these companies, inevitably, we think, oh, they're going to last forever. They're so big, they could keep out competitors. All of a sudden, Google looks a little vulnerable.
 
-We’re making sure that every community has access to affordable, high-speed internet.
+Do you agree with that? Does that change your thinking on this? I don't actually agree with that in the sense that I think right now the foundation models, which like GPT-4, are so resource-intensive and they're going in a particular way that they might actually strengthen the hold of Google and Microsoft. OpenAI is no longer an open source non-profit. It's really part of Microsoft, and Microsoft is incorporating GPT-4 into all of its products. And Google is really advanced relative to lots of other companies in foundation models as well. So, yes, I think AI broadly construed could be a competitive shock to that industry, but I think that's not the path we're going in right now. My guest today has been Daron Acemoglu. His book with Simon Johnson is Power and Progress. Daron, thanks for being part of EconTalk. Thank you for having me, Russ. This was fantastic. This is EconTalk, part of the Library of Economics and Liberty. For more EconTalk, go to econtalk.org, where you can also comment on today's podcast and find links and readings related to today's conversation. The sound engineer for EconTalk is Rich Goyette. I'm your host, Russ Roberts.
 
-No parent should have to drive to a McDonald’s parking lot so their kid can do their homework online.
-
-And when we do these projects, we’re going to Buy American.
-
-Buy American has been the law of the land since 1933. But for too long, past administrations have found ways to get around it.
-
-Not anymore.
-
-Tonight, I’m also announcing new standards to require all construction materials used in federal infrastructure projects to be made in America.
-
-American-made lumber, glass, drywall, fiber optic cables.
-
-And on my watch, American roads, American bridges, and American highways will be made with American products.
-
-My economic plan is about investing in places and people that have been forgotten. Amid the economic upheaval of the past four decades, too many people have been left behind or treated like they’re invisible.
-
-Maybe that’s you, watching at home.
-
-You remember the jobs that went away. And you wonder whether a path even exists anymore for you and your children to get ahead without moving away.
-
-I get it.
-
-That’s why we’re building an economy where no one is left behind.
-
-Jobs are coming back, pride is coming back, because of the choices we made in the last two years. This is a blue-collar blueprint to rebuild America and make a real difference in your lives.
-
-For example, too many of you lay in bed at night staring at the ceiling, wondering what will happen if your spouse gets cancer, your child gets sick, or if something happens to you.
-
-Will you have the money to pay your medical bills? Will you have to sell the house?
-
-I get it. With the Inflation Reduction Act that I signed into law, we’re taking on powerful interests to bring your health care costs down so you can sleep better at night.
-
-You know, we pay more for prescription drugs than any major country on Earth.
-
-For example, one in ten Americans has diabetes.
-
-Every day, millions need insulin to control their diabetes so they can stay alive. Insulin has been around for 100 years. It costs drug companies just $10 a vial to make.
-
-But, Big Pharma has been unfairly charging people hundreds of dollars – and making record profits.
-
-Not anymore.
-
-We capped the cost of insulin at $35 a month for seniors on Medicare.
-
-But there are millions of other Americans who are not on Medicare, including 200,000 young people with Type I diabetes who need insulin to save their lives.
-
-Let’s finish the job this time.
-
-Let’s cap the cost of insulin at $35 a month for every American who needs it.
-
-This law also caps out-of-pocket drug costs for seniors on Medicare at a maximum $2,000 per year when there are in fact many drugs, like expensive cancer drugs, that can cost up to $10,000, $12,000, and $14,000 a year.
-
-If drug prices rise faster than inflation, drug companies will have to pay Medicare back the difference.
-
-And we’re finally giving Medicare the power to negotiate drug prices. Bringing down prescription drug costs doesn’t just save seniors money.
-
-It will cut the federal deficit, saving tax payers hundreds of billions of dollars on the prescription drugs the government buys for Medicare.
-
-Why wouldn’t we want to do that?
-
-Now, some members here are threatening to repeal the Inflation Reduction Act.
-
-Make no mistake, if you try to do anything to raise the cost of prescription drugs, I will veto it.
-
-I’m pleased to say that more Americans have health insurance now than ever in history.
-
-A record 16 million people are enrolled under the Affordable Care Act.
-
-Thanks to the law I signed last year, millions are saving $800 a year on their premiums.
-
-But the way that law was written, that benefit expires after 2025.
-
-Let’s finish the job, make those savings permanent, and expand coverage to those left off Medicaid.
-
-Look, the Inflation Reduction Act is also the most significant investment ever to tackle the climate crisis.
-
-Lowering utility bills, creating American jobs, and leading the world to a clean energy future.
-
-I’ve visited the devastating aftermaths of record floods and droughts, storms and wildfires.
-
-In addition to emergency recovery from Puerto Rico to Florida to Idaho, we are rebuilding for the long term.
-
-New electric grids able to weather the next major storm.
-
-Roads and water systems to withstand the next big flood.
-
-Clean energy to cut pollution and create jobs in communities too often left behind.
-
-We’re building 500,000 electric vehicle charging stations installed across the country by tens of thousands of IBEW workers.
-
-And helping families save more than $1,000 a year with tax credits for the purchase of electric vehicles and energy-efficient appliances.
-
-Historic conservation efforts to be responsible stewards of our lands.
-
-Let’s face reality.
-
-The climate crisis doesn’t care if your state is red or blue. It is an existential threat.
-
-We have an obligation to our children and grandchildren to confront it. I’m proud of how America is at last stepping up to the challenge.
-
-But there’s so much more to do.
-
-We will finish the job.
-
-And we pay for these investments in our future by finally making the wealthiest and the biggest corporations begin to pay their fair share.
-
-I’m a capitalist. But just pay your fair share.
-
-And I think a lot of you at home agree with me that our present tax system is simply unfair.
-
-The idea that in 2020, 55 of the biggest companies in America made $40 billion in profits and paid zero in federal income taxes?
-
-That’s simply not fair.
-
-But now, because of the law I signed, billion-dollar companies have to pay a minimum of 15%.
-
-Just 15%.
-
-That’s less than a nurse pays. Let me be clear.
-
-Under my plan, nobody earning less than $400,000 a year will pay an additional penny in taxes.
-
-Nobody. Not one penny.
-
-But there’s more to do.
-
-Let’s finish the job. Reward work, not just wealth. Pass my proposal for a billionaire minimum tax.
-
-Because no billionaire should pay a lower tax rate than a school teacher or a firefighter.
-
-You may have noticed that Big Oil just reported record profits.
-
-Last year, they made $200 billion in the midst of a global energy crisis.
-
-It’s outrageous.
-
-They invested too little of that profit to increase domestic production and keep gas prices down.
-
-Instead, they used those record profits to buy back their own stock, rewarding their CEOs and shareholders.
-
-Corporations ought to do the right thing.
-
-That’s why I propose that we quadruple the tax on corporate stock buybacks to encourage long term investments instead.
-
-They will still make a considerable profit.
-
-Let’s finish the job and close the loopholes that allow the very wealthy to avoid paying their taxes.
-
-Instead of cutting the number of audits of wealthy tax payers, I signed a law that will reduce the deficit by $114 billion by cracking down on wealthy tax cheats.
-
-That’s being fiscally responsible.
-
-In the last two years, my administration cut the deficit by more than $1.7 trillion – the largest deficit reduction in American history.
-
-Under the previous administration, America’s deficit went up four years in a row.
-
-Because of those record deficits, no president added more to the national debt in any four years than my predecessor.
-
-Nearly 25% of the entire national debt, a debt that took 200 years to accumulate, was added by that administration alone.
-
-How did Congress respond to all that debt?
-
-They lifted the debt ceiling three times without preconditions or crisis.
-
-They paid America’s bills to prevent economic disaster for our country.
-
-Tonight, I’m asking this Congress to follow suit.
-
-Let us commit here tonight that the full faith and credit of the United States of America will never, ever be questioned.
-
-Some of my Republican friends want to take the economy hostage unless I agree to their economic plans. All of you at home should know what their plans are.
-
-Instead of making the wealthy pay their fair share, some Republicans want Medicare and Social Security to sunset every five years.
-
-That means if Congress doesn’t vote to keep them, those programs will go away.
-
-Other Republicans say if we don’t cut Social Security and Medicare, they’ll let America default on its debt for the first time in our history.
-
-I won’t let that happen.
-
-Social Security and Medicare are a lifeline for millions of seniors.
-
-Americans have been paying into them with every single paycheck since they started working.
-
-So tonight, let’s all agree to stand up for seniors. Stand up and show them we will not cut Social Security. We will not cut Medicare.
-
-Those benefits belong to the American people. They earned them.
-
-If anyone tries to cut Social Security, I will stop them. And if anyone tries to cut Medicare, I will stop them.
-
-I will not allow them to be taken away.
-
-Not today. Not tomorrow. Not ever.
-
-Next month when I offer my fiscal plan, I ask my Republican friends to offer their plan.
-
-We can sit down together and discuss both plans together.
-
-My plan will lower the deficit by $2 trillion.
-
-I won’t cut a single Social Security or Medicare benefit.
-
-In fact, I will extend the Medicare Trust Fund by at least two decades.
-
-I will not raise taxes on anyone making under $400,000 a year. And I will pay for the ideas I’ve talked about tonight by making the wealthy and big corporations begin to pay their fair share.
-
-Look, here’s the deal. Big corporations aren’t just taking advantage of the tax code. They’re taking advantage of you, the American consumer.
-
-Here’s my message to all of you out there: I have your back. We’re already preventing insurance companies from sending surprise medical bills, stopping 1 million surprise bills a month.
-
-We’re protecting seniors’ lives and life savings by cracking down on nursing homes that commit fraud, endanger patient safety, or prescribe drugs they don’t need.
-
-Millions of Americans can now save thousands of dollars because they can finally get hearing aids over-the-counter without a prescription.
-
-Capitalism without competition is not capitalism. It is exploitation.
-
-Last year I cracked down on foreign shipping companies that were making you pay higher prices for everyday goods coming into our country.
-
-I signed a bipartisan bill that cut shipping costs by 90%, helping American farmers, businesses, and consumers.
-
-Let’s finish the job.
-
-Pass bipartisan legislation to strengthen antitrust enforcement and prevent big online platforms from giving their own products an unfair advantage.
-
-My administration is also taking on “junk” fees, those hidden surcharges too many businesses use to make you pay more.
-
-For example, we’re making airlines show you the full ticket price upfront and refund your money if your flight is cancelled or delayed.
-
-We’ve reduced exorbitant bank overdraft fees, saving consumers more than $1 billion a year.
-
-We’re cutting credit card late fees by 75%, from $30 to $8.
-
-Junk fees may not matter to the very wealthy, but they matter to most folks in homes like the one I grew up in. They add up to hundreds of dollars a month.
-
-They make it harder for you to pay the bills or afford that family trip.
-
-I know how unfair it feels when a company overcharges you and gets away with it.
-
-Not anymore.
-
-We’ve written a bill to stop all that. It’s called the Junk Fee Prevention Act.
-
-We’ll ban surprise “resort fees” that hotels tack on to your bill. These fees can cost you up to $90 a night at hotels that aren’t even resorts.
-
-We’ll make cable internet and cellphone companies stop charging you up to $200 or more when you decide to switch to another provider.
-
-We’ll cap service fees on tickets to concerts and sporting events and make companies disclose all fees upfront.
-
-And we’ll prohibit airlines from charging up to $50 roundtrip for families just to sit together.
-
-Baggage fees are bad enough – they can’t just treat your child like a piece of luggage.
-
-Americans are tired of being played for suckers.
-
-Pass the Junk Fee Prevention Act so companies stop ripping us off.
-
-For too long, workers have been getting stiffed.
-
-Not anymore.
-
-We’re beginning to restore the dignity of work.
-
-For example, 30 million workers had to sign non-compete agreements when they took a job. So a cashier at a burger place can’t cross the street to take the same job at another burger place to make a couple bucks more.
-
-Not anymore.
-
-We’re banning those agreements so companies have to compete for workers and pay them what they’re worth.
-
-I’m so sick and tired of companies breaking the law by preventing workers from organizing.
-
-Pass the PRO Act because workers have a right to form a union. And let’s guarantee all workers a living wage.
-
-Let’s also make sure working parents can afford to raise a family with sick days, paid family and medical leave, and affordable child care that will enable millions more people to go to work.
-
-Let’s also restore the full Child Tax Credit, which gave tens of millions of parents some breathing room and cut child poverty in half, to the lowest level in history.
-
-And by the way, when we do all of these things, we increase productivity. We increase economic growth.
-
-Let’s also finish the job and get more families access to affordable and quality housing.
-
-Let’s get seniors who want to stay in their homes the care they need to do so. And give a little more breathing room to millions of family caregivers looking after their loved ones.
-
-Pass my plan so we get seniors and people with disabilities the home care services they need and support the workers who are doing God’s work.
-
-These plans are fully paid for and we can afford to do them.
-
-Restoring the dignity of work also means making education an affordable ticket to the middle class.
-
-When we made 12 years of public education universal in the last century, it made us the best-educated, best-prepared nation in the world.
-
-But the world has caught up.
-
-Jill, who teaches full-time, has an expression: “Any nation that out-educates us will out-compete us.”
-
-Folks, you all know 12 years is not enough to win the economic competition for the 21st Century.
-
-If you want America to have the best-educated workforce, let’s finish the job by providing access to pre-school for 3- and 4-year-olds.
-
-Studies show that children who go to pre-school are nearly 50% more likely to finish high school and go on to earn a 2- or 4-year degree, no matter their background.
-
-Let’s give public school teachers a raise.
-
-And we’re making progress by reducing student debt and increasing Pell Grants for working- and middle-class families.
-
-Let’s finish the job, connect students to career opportunities starting in high school and provide two years of community college, some of the best career training in America, in addition to being a pathway to a four-year degree.
-
-Let’s offer every American the path to a good career whether they go to college or not.
-
-And folks, in the midst of the COVID crisis when schools were closed, let’s also recognize how far we’ve come in the fight against the pandemic itself.
-
-While the virus is not gone, thanks to the resilience of the American people, we have broken COVID’s grip on us.
-
-COVID deaths are down nearly 90%.
-
-We’ve saved millions of lives and opened our country back up.
-
-And soon we’ll end the public health emergency.
-
-But we will remember the toll and pain that will never go away for so many. More than 1 million Americans have lost their lives to COVID.
-
-Families grieving. Children orphaned. Empty chairs at the dining room table.
-
-We remember them, and we remain vigilant.
-
-We still need to monitor dozens of variants and support new vaccines and treatments.
-
-So Congress needs to fund these efforts and keep America safe.
-
-And as we emerge from this crisis stronger, I’m also doubling down on prosecuting criminals who stole relief money meant to keep workers and small businesses afloat during the pandemic.
-
-Before I came to office many inspector generals who protect taxpayer dollars were sidelined. Fraud was rampant.
-
-Last year, I told you the watchdogs are back. Since then, we’ve recovered billions of taxpayer dollars.
-
-Now, let’s triple our anti-fraud strike forces going after these criminals, double the statute of limitations on these crimes, and crack down on identity fraud by criminal syndicates stealing billions of dollars from the American people.
-
-For every dollar we put into fighting fraud, taxpayers get back at least ten times as much.
-
-COVID left other scars, like the spike in violent crime in 2020, the first year of the pandemic.
-
-We have an obligation to make sure all our people are safe.
-
-Public safety depends on public trust. But too often that trust is violated.
-
-Joining us tonight are the parents of Tyre Nichols, who had to bury him just last week. There are no words to describe the heartbreak and grief of losing a child.
-
-But imagine what it’s like to lose a child at the hands of the law.
-
-Imagine having to worry whether your son or daughter will come home from walking down the street or playing in the park or just driving their car.
-
-I’ve never had to have the talk with my children – Beau, Hunter, and Ashley – that so many Black and Brown families have had with their children.
-
-If a police officer pulls you over, turn on your interior lights. Don’t reach for your license. Keep your hands on the steering wheel.
-
-Imagine having to worry like that every day in America.
-
-Here’s what Tyre’s mom shared with me when I asked her how she finds the courage to carry on and speak out.
-
-With faith in God, she said her son “was a beautiful soul and something good will come from this.”
-
-Imagine how much courage and character that takes.
-
-It’s up to us. It’s up to all of us.
-
-We all want the same thing.
-
-Neighborhoods free of violence.
-
-Law enforcement who earn the community’s trust.
-
-Our children to come home safely.
-
-Equal protection under the law; that’s the covenant we have with each other in America.
-
-And we know police officers put their lives on the line every day, and we ask them to do too much.
-
-To be counselors, social workers, psychologists; responding to drug overdoses, mental health crises, and more.
-
-We ask too much of them.
-
-I know most cops are good, decent people. They risk their lives every time they put on that shield.
-
-But what happened to Tyre in Memphis happens too often.
-
-We have to do better.
-
-Give law enforcement the training they need, hold them to higher standards, and help them succeed in keeping everyone safe.
-
-We also need more first responders and other professionals to address growing mental health and substance abuse challenges.
-
-More resources to reduce violent crime and gun crime; more community intervention programs; more investments in housing, education, and job training.
-
-All this can help prevent violence in the first place.
-
-And when police officers or departments violate the public’s trust, we must hold them accountable.
-
-With the support of families of victims, civil rights groups, and law enforcement, I signed an executive order for all federal officers banning chokeholds, restricting no-knock warrants, and other key elements of the George Floyd Act.
-
-Let’s commit ourselves to make the words of Tyre’s mother come true, something good must come from this.
-
-All of us in this chamber, we need to rise to this moment.
-
-We can’t turn away.
-
-Let’s do what we know in our hearts we need to do.
-
-Let’s come together and finish the job on police reform.
-
-Do something.
-
-That was the same plea of parents who lost their children in Uvalde: Do something on gun violence.
-
-Thank God we did, passing the most sweeping gun safety law in three decades.
-
-That includes things that the majority of responsible gun owners support, like enhanced background checks for 18 to 21-year-olds and red flag laws keeping guns out of the hands of people who are a danger to themselves and others.
-
-But we know our work is not done.
-
-Joining us tonight is Brandon Tsay, a 26-year-old hero.
-
-Brandon put off his college dreams to stay by his mom’s side as she was dying from cancer. He now works at a dance studio started by his grandparents.
-
-Two weeks ago, during Lunar New Year celebrations, he heard the studio’s front door close and saw a man pointing a gun at him.
-
-He thought he was going to die, but then he thought about the people inside.
-
-In that instant, he found the courage to act and wrestled the semi-automatic pistol away from a gunman who had already killed 11 people at another dance studio.
-
-He saved lives. It’s time we do the same as well.
-
-Ban assault weapons once and for all.
-
-We did it before. I led the fight to ban them in 1994.
-
-In the 10 years the ban was law, mass shootings went down. After Republicans let it expire, mass shootings tripled.
-
-Let’s finish the job and ban assault weapons again.
-
-And let’s also come together on immigration and make it a bipartisan issue like it was before.
-
-We now have a record number of personnel working to secure the border, arresting 8,000 human smugglers and seizing over 23,000 pounds of fentanyl in just the last several months.
-
-Since we launched our new border plan last month, unlawful migration from Cuba, Haiti, Nicaragua, and Venezuela has come down 97%.
-
-But America’s border problems won’t be fixed until Congress acts.
-
-If you won’t pass my comprehensive immigration reform, at least pass my plan to provide the equipment and officers to secure the border. And a pathway to citizenship for Dreamers, those on temporary status, farm workers, and essential workers.
-
-Here in the people’s House, it’s our duty to protect all the people’s rights and freedoms.
-
-Congress must restore the right the Supreme Court took away last year and codify Roe v. Wade to protect every woman’s constitutional right to choose.
-
-The Vice President and I are doing everything we can to protect access to reproductive health care and safeguard patient privacy. But already, more than a dozen states are enforcing extreme abortion bans.
-
-Make no mistake; if Congress passes a national abortion ban, I will veto it.
-
-Let’s also pass the bipartisan Equality Act to ensure LGBTQ Americans, especially transgender young people, can live with safety and dignity.
-
-Our strength is not just the example of our power, but the power of our example. Let’s remember the world is watching.
-
-I spoke from this chamber one year ago, just days after Vladimir Putin unleashed his brutal war against Ukraine.
-
-A murderous assault, evoking images of the death and destruction Europe suffered in World War II.
-
-Putin’s invasion has been a test for the ages. A test for America. A test for the world.
-
-Would we stand for the most basic of principles?
-
-Would we stand for sovereignty?
-
-Would we stand for the right of people to live free from tyranny?
-
-Would we stand for the defense of democracy?
-
-For such a defense matters to us because it keeps the peace and prevents open season for would-be aggressors to threaten our security and prosperity. One year later, we know the answer.
-
-Yes, we would.
-
-And yes, we did.
-
-Together, we did what America always does at our best.
-
-We led.
-
-We united NATO and built a global coalition.
-
-We stood against Putin’s aggression.
-
-We stood with the Ukrainian people.
-
-Tonight, we are once again joined by Ukraine’s Ambassador to the United States. She represents not just her nation, but the courage of her people.
-
-Ambassador, America is united in our support for your country. We will stand with you as long as it takes.
-
-Our nation is working for more freedom, more dignity, and more peace,
-not just in Europe, but everywhere.
-
-Before I came to office, the story was about how the People’s Republic of China was increasing its power and America was falling in the world.
-
-Not anymore.
-
-I’ve made clear with President Xi that we seek competition, not conflict.
-
-I will make no apologies that we are investing to make America strong. Investing in American innovation, in industries that will define the future, and that China’s government is intent on dominating.
-
-Investing in our alliances and working with our allies to protect our advanced technologies so they’re not used against us.
-
-Modernizing our military to safeguard stability and deter aggression.
-
-Today, we’re in the strongest position in decades to compete with China or anyone else in the world.
-
-I am committed to work with China where it can advance American interests and benefit the world.
-
-But make no mistake: as we made clear last week, if China’s threatens our sovereignty, we will act to protect our country. And we did.
-
-And let’s be clear: winning the competition with China should unite all of us. We face serious challenges across the world.
-
-But in the past two years, democracies have become stronger, not weaker.
-
-Autocracies have grown weaker, not stronger.
-
-America is rallying the world again to meet those challenges, from climate and global health, to food insecurity, to terrorism and territorial aggression.
-
-Allies are stepping up, spending more and doing more.
-
-And bridges are forming between partners in the Pacific and those in the Atlantic. And those who bet against America are learning just how wrong they are.
-
-It’s never a good bet to bet against America.
-
-When I came to office, most everyone assumed bipartisanship was impossible. But I never believed it.
-
-That’s why a year ago, I offered a Unity Agenda for the nation.
-
-We’ve made real progress.
-
-Together, we passed a law making it easier for doctors to prescribe effective treatments for opioid addiction.
-
-Passed a gun safety law making historic investments in mental health.
-
-Launched ARPA-H to drive breakthroughs in the fight against cancer,
-Alzheimer’s, diabetes, and so much more.
-
-We passed the Heath Robinson PACT Act, named for the late Iraq war veteran whose story about exposure to toxic burn pits I shared here last year.
-
-But there is so much more to do. And we can do it together.
-
-Joining us tonight is a father named Doug from Newton, New Hampshire.
-
-He wrote Jill and me a letter about his daughter Courtney. Contagious laugh. Her sister’s best friend.
-
-He shared a story all too familiar to millions of Americans.
-
-Courtney discovered pills in high school. It spiraled into addiction and eventually her death from a fentanyl overdose.
-
-She was 20 years old.
-
-Describing the last eight years without her, Doug said, “There is no worse pain.”
-
-Yet their family has turned pain into purpose, working to end stigma and change laws.
-
-He told us he wants to “start the journey towards America’s recovery.”
-
-Doug, we’re with you.
-
-Fentanyl is killing more than 70,000 Americans a year.
-
-Let’s launch a major surge to stop fentanyl production, sale, and trafficking, with more drug detection machines to inspect cargo and stop pills and powder at the border.
-
-Working with couriers like Fed Ex to inspect more packages for drugs. Strong penalties to crack down on fentanyl trafficking.
-
-Second, let’s do more on mental health, especially for our children. When millions of young people are struggling with bullying, violence, trauma, we owe them greater access to mental health care at school.
-
-We must finally hold social media companies accountable for the experiment they are running on our children for profit.
-
-And it’s time to pass bipartisan legislation to stop Big Tech from collecting personal data on kids and teenagers online, ban targeted advertising to children, and impose stricter limits on the personal data these companies collect on all of us.
-
-Third, let’s do more to keep our nation’s one truly sacred obligation: to equip those we send into harm’s way and care for them and their families when they come home.
-
-Job training and job placement for veterans and their spouses as they return to civilian life.
-
-Helping veterans afford their rent because no one should be homeless in this country, especially not those who served it.
-
-And we cannot go on losing 17 veterans a day to the silent scourge of suicide.
-
-The VA is doing everything it can, including expanding mental health screenings and a proven program that recruits veterans to help other veterans understand what they’re going through and get the help they need.
-
-And fourth, last year Jill and I re-ignited the Cancer Moonshot that President Obama asked me to lead in our Administration.
-
-Our goal is to cut the cancer death rate by at least 50% over the next 25 years. Turn more cancers from death sentences into treatable diseases. And provide more support for patients and families.
-
-It’s personal for so many of us.
-
-Joining us are Maurice and Kandice, an Irishman and a daughter of immigrants from Panama.
-
-They met and fell in love in New York City and got married in the same chapel as Jill and I did.
-
-Kindred spirits.
-
-He wrote us a letter about their little daughter Ava.
-
-She was just a year old when she was diagnosed with a rare kidney cancer.
-
-26 blood transfusions. 11 rounds of radiation. 8 rounds of chemo. 1 kidney removed.
-
-A 5% survival rate.
-
-He wrote how in the darkest moments he thought, “if she goes, I can’t stay.”
-
-Jill and I understand, like so many of you.
-
-They read how Jill described our family’s cancer journey and how we tried to steal moments of joy where you can.
-
-For them, that glimmer of joy was a half-smile from their baby girl. It meant everything.
-
-They never gave up hope.
-
-Ava never gave up hope. She turns four next month.
-
-They just found out that Ava beat the odds and is on her way to being cancer free, and she’s watching from the White House tonight.
-
-For the lives we can save and for the lives we have lost, let this be a truly American moment that rallies the country and the world together and proves that we can do big things.
-
-Twenty years ago, under the leadership of President Bush and countless advocates and champions, we undertook a bipartisan effort through PEPFAR to transform the global fight against HIV/AIDS. It’s been a huge success.
-
-I believe we can do the same with cancer.
-
-Let’s end cancer as we know it and cure some cancers once and for all.
-
-There’s one reason why we’re able to do all of these things: our democracy itself.
-
-It’s the most fundamental thing of all.
-
-With democracy, everything is possible. Without it, nothing is.
-
-For the last few years our democracy has been threatened, attacked, and put at risk.
-
-Put to the test here, in this very room, on January 6th.
-
-And then, just a few months ago, unhinged by the Big Lie, an assailant unleashed political violence in the home of the then-Speaker of this House of Representatives. Using the very same language that insurrectionists who stalked these halls chanted on January 6th.
-
-Here tonight in this chamber is the man who bears the scars of that brutal attack, but is as tough and strong and as resilient as they get.
-
-My friend, Paul Pelosi.
-
-But such a heinous act never should have happened.
-
-We must all speak out. There is no place for political violence in America. In America, we must protect the right to vote, not suppress that fundamental right. We honor the results of our elections, not subvert the will of the people. We must uphold the rule of the law and restore trust in our institutions of democracy.
-
-And we must give hate and extremism in any form no safe harbor.
-
-Democracy must not be a partisan issue. It must be an American issue.
-
-Every generation of Americans has faced a moment where they have been called on to protect our democracy, to defend it, to stand up for it.
-
-And this is our moment.
-
-My fellow Americans, we meet tonight at an inflection point. One of those moments that only a few generations ever face, where the decisions we make now will decide the course of this nation and of the world for decades to come.
-
-We are not bystanders to history. We are not powerless before the forces that confront us. It is within our power, of We the People. We are facing the test of our time and the time for choosing is at hand.
-
-We must be the nation we have always been at our best. Optimistic. Hopeful. Forward-looking.
-
-A nation that embraces, light over darkness, hope over fear, unity over division. Stability over chaos.
-
-We must see each other not as enemies, but as fellow Americans. We are a good people, the only nation in the world built on an idea.
-
-That all of us, every one of us, is created equal in the image of God. A nation that stands as a beacon to the world. A nation in a new age of possibilities.
-
-So I have come here to fulfil my constitutional duty to report on the state of the union. And here is my report.
-
-Because the soul of this nation is strong, because the backbone of this nation is strong, because the people of this nation are strong, the State of the Union is strong.
-
-As I stand here tonight, I have never been more optimistic about the future of America. We just have to remember who we are.
-
-We are the United States of America and there is nothing, nothing
-beyond our capacity if we do it together.
-
-May God bless you all. May God protect our troops.
+Thanks for listening. Talk to you on Monday.
